@@ -1,6 +1,13 @@
 # Action-Recognition-System
 Group project to preprocess the Weizmann Human Action Dataset by separating mixed image/text data into specific action folders and generating a combined video using OpenCV. Implemented folder-based action classification and natural sorting of frames for accurate sequence rendering.
 
+##  Dataset Disclaimer
+
+This project uses the [Weizmann Human Action Dataset](https://www.kaggle.com/datasets/dcsyanwq/weizmann-dataset), which is publicly available for academic research purposes.  
+The dataset is **not included in this repository** and is **not covered by the MIT license** applied to this code.
+
+Please refer to the official Weizmann website for usage terms and licensing.
+
 ## Dataset Description
 
 - Total files: **1500** (image + text files)
